@@ -1,1 +1,2 @@
-# C
+# C Program
+Hacker rank solutions
